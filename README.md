@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @dallaswk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🚀 **Passionate Developer with over 27 years of tech experience.**
 
-<!---
-dallaswk/dallaswk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I started my journey in programming at the age of 12, diving into the exciting world of cybersecurity. Over time, my curiosity led me to backend development, and today I’m a frontend expert with more than 10 years of experience crafting seamless, high-performance web technologies. 💻✨
+
+I’ve worked with **HTML**, **CSS**, **PHP**, **JavaScript**, **TypeScript**, **Vue**, **React**, and recently, **Python** 🐍. Currently, I’m fully immersed in the world of **Artificial Intelligence** 🤖, constantly exploring new frontiers in tech.
+
+Always learning, always innovating! 🚀🌍
